@@ -1,0 +1,26 @@
+_repo: Mascara-Viscera_31181
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31181-h/images/coverpage1.jpg
+creator:
+  author:
+    agent_name: Brown, Paul Cameron
+    alias: Browne, Paul Cameron
+    birthdate: 1948
+    gutenberg_agent_id: '34138'
+    url: http://www.gutenberg.org/2009/agents/34138
+description: ''
+gutenberg_issued: '2010-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31181'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Canadian poetry'
+- !lcc 'PS'
+title: Mascara-Viscera
+url: http://www.gutenberg.org/ebooks/31181
